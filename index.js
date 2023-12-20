@@ -1,6 +1,6 @@
 const io = require("socket.io")(4000 , {
     cors:{
-        origin:"https://instagram-clone-q39b.onrender.com/"
+        origin:"https://instagram-clone-q39b.onrender.com"
     }
 })
 
